@@ -18,6 +18,11 @@ samples, guidance on mobile development, and a full API reference.
 # Instructions to use
 
 #Add .env file in the root folder
+
 #Run "Flutter pub get"
+
+#Create an account on www.groq.com and create an API key at "https://console.groq.com/". Copy that key. 
+
 #Add the Groq API key into the .env file like this "GROQ_API_KEY='abc....'"
+
 #Run it on your device
